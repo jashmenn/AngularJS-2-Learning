@@ -4,6 +4,21 @@ AngularJS 2.X Learning
 * This document is a list of resources for learning AngularJS 2.X.
 * WIP: please send pull requests or suggestions to [@eigenjoy](https://twitter.com/eigenjoy)
 
+## Table Of Contents
+* [Official Documentation](#official-documentation)
+* [Core Code](#core-code)
+* [Overviews](#overviews)
+* [Learning v2 with a background in v1](#learning-v2-with-a-background-in-v1)
+* [Templating and Views](#templating-and-views)
+* [Directives and Components](#directives-and-components)
+* [Angular on the Server](#angular-on-the-server)
+* [Tutorials](#tutorials)
+* [TypeScript](#typescript)
+* [Internals](#internals)
+* [Development Resources](#development-resources)
+* [Associated Technologies](#associated-technologies)
+* [Videos](#videos)
+
 ## Official Documentation
 * [Angular.io Official Website](https://angular.io/)
 
