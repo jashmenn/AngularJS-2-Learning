@@ -14,7 +14,8 @@ AngularJS 2.X Learning
 ## Learning v2 with a background in v1
 
 * [Preparing for the future of AngularJS](https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs) (Johansson)
-
+* [AngularJS 2.0 Status and Preview](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/) (Esteva)
+* [What's New in Angular 2.0](http://www.sitepoint.com/whats-new-in-angularjs-2/) (Panda)
 
 ## Templating and Views
 * [Forms in Angular 2](http://angularjs.blogspot.com/2015/03/forms-in-angular-2.html) (Savkin)
