@@ -10,13 +10,11 @@ AngularJS 2.X Learning
 ## Core Code
 * [Angular 2 Core Code on Github](https://github.com/angular/angular)
 * [Zone.js](https://github.com/angular/zone.js)
+* [New Router Code](https://github.com/angular/router)
+* [New Router Documentation](https://angular.github.io/router/)
 
 ## Overviews
 * [Angular 2 Mental Model](https://docs.google.com/document/d/1f-xlfLRG4q9whXhnR2wgCQkb64CdWzW9I_sKKyNbbak/edit#heading=h.xgjl2srtytjt)
-
-## Development Resources
-* [Angular Weekly Meeting Notes](https://docs.google.com/document/d/150lerb1LmNLuau_a_EznPV1I1UHMTbEl61t4hZ7ZpS0/edit)
-* [AngularJS Design Docs](https://drive.google.com/drive/folders/0BxgtL8yFJbacUnUxc3l5aTZrbVk)
 
 ## Learning v2 with a background in v1
 
@@ -34,14 +32,19 @@ AngularJS 2.X Learning
 * [Angular 2.0 Forms - Angular Design Docs](https://docs.google.com/document/d/1US9h0ORqBltl71TlEU6s76ix8SUnOLE2jabHVg9xxEA/edit#heading=h.oisbys59gdxa)
 * [Forms in Angular 2](http://angularjs.blogspot.com/2015/03/forms-in-angular-2.html) (Savkin)
 
+## Directives and Components
+* [Ionic's Angular 2 Series: Components](http://blog.ionic.io/angular-2-series-components/)
+
 ## Angular on the Server
 * [Server Side Rendering](https://docs.google.com/document/d/1q6g9UlmEZDXgrkY88AJZ6MUrUxcnwhBGS0EXbVlYicY/edit)
 
 ## Tutorials
+* [Angular 2 Five-minute Quickstart](https://angular.io/docs/js/latest/quickstart.html)
 * [Angular 2 Todo App](http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial) (Panda)
 * [ng2do](https://github.com/davideast/ng2do) (East)
 * [Angular 2.0 quickstart](https://github.com/angular/quickstart) (East)
 * [Microsofts TodoMVC application demo for ng-conf 2015](https://github.com/Microsoft/ngconf2015demo) 
+* [Ionic's Angular 2 Series: Introduction](http://blog.ionic.io/angular-2-series-introduction/)
 
 ## TypeScript
 * [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
@@ -50,8 +53,14 @@ AngularJS 2.X Learning
 ## Internals
 * [Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2) (Savkin)
 
+## Development Resources
+* [Angular Weekly Meeting Notes](https://docs.google.com/document/d/150lerb1LmNLuau_a_EznPV1I1UHMTbEl61t4hZ7ZpS0/edit)
+* [AngularJS Design Docs](https://drive.google.com/drive/folders/0BxgtL8yFJbacUnUxc3l5aTZrbVk)
+* [Angular 2.0 Progress Tracker](https://docs.google.com/spreadsheet/ccc?key=0AhgtL8yFJbacdEFmaUxJaEI0VVlPZDV5VE1Cd0wyTnc&usp=drive_web#gid=0)
 
 ## Videos
 * [ng-conf 2015 videos](http://www.ng-conf.org/)
 * [Change Detection Reinvented](https://www.youtube.com/watch?v=jvKGQSFQf10&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) [Slides](https://docs.google.com/presentation/d/12Y7FD_HJDCYSgj3Bvcd8FXH9y6UI9VfV5tsXPDiW2DE/edit#slide=id.g7a0f6ac65_2_0) (Savkin)
+* [The New Router](https://www.youtube.com/watch?v=vecg70fPDFw&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) [Slides](https://docs.google.com/presentation/d/1UtlOESedCKC1bHnx0F0w8LzFzVh4BOMr9g6GfCSR-Lw/edit) (Green)
+* [Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs) (Jina)
 
