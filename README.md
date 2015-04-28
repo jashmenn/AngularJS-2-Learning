@@ -47,7 +47,6 @@ AngularJS 2.X Learning
 ## Templating and Views
 * [Angular v2 Template Syntax Summary](https://docs.google.com/document/d/1hymWCAhCYDWH2yHVmS4_Ep2puPyYoFVHtX01MHEA7M8/edit#heading=h.xgjl2srtytjt)
 * [Angular 2.0 Forms - Angular Design Docs](https://docs.google.com/document/d/1US9h0ORqBltl71TlEU6s76ix8SUnOLE2jabHVg9xxEA/edit#heading=h.oisbys59gdxa)
-* [https://docs.google.com/document/d/1je68EfKqPH9FcOrSqShZzVSYQpvV93p8ZEljBzDsHDw/edit?usp=drive_web
 * [Forms in Angular 2](http://angularjs.blogspot.com/2015/03/forms-in-angular-2.html) (Savkin)
 
 ## Directives and Components
