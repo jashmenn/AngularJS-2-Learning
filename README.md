@@ -1,7 +1,7 @@
-AngularJS 2.X Learning
+AngularJS 2 Learning
 ======================
 
-* This document is a list of resources for learning AngularJS 2.X.
+* This document is a list of resources for learning AngularJS 2
 * WIP: please send pull requests or suggestions to [@eigenjoy](https://twitter.com/eigenjoy)
 
 ## Table Of Contents
