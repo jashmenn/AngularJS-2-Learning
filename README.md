@@ -63,10 +63,14 @@ AngularJS 2.X Learning
 * [Angular 2.0 quickstart](https://github.com/angular/quickstart) (East)
 * [Microsofts TodoMVC application demo for ng-conf 2015](https://github.com/Microsoft/ngconf2015demo) 
 * [Ionic's Angular 2 Series: Introduction](http://blog.ionic.io/angular-2-series-introduction/)
+* [TodoMVC Example in TypeScript (Angular 1)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-angular)
 
 ## TypeScript
 * [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
 * [TypeScript Playground](http://www.typescriptlang.org/Playground)
+* [TypeScript Handbook](http://www.typescriptlang.org/Handbook)
+* [The Rise of TypeScript?](http://developer.telerik.com/featured/the-rise-of-typescript/) (VanToll)
+* [Creating a Typescript Workflow with Gulp](http://weblogs.asp.net/dwahlin/creating-a-typescript-workflow-with-gulp) (Wahlin)
 
 ## Internals
 * [Change Detection Design Document](https://docs.google.com/document/d/10W46qDNO8Dl0Uye3QX0oUDPYAwaPl0qNy73TVLjd1WI/edit) (Misko)
