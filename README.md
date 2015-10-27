@@ -99,3 +99,4 @@ AngularJS 2 Learning
 * [The New Router](https://www.youtube.com/watch?v=vecg70fPDFw&list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7) [Slides](https://docs.google.com/presentation/d/1UtlOESedCKC1bHnx0F0w8LzFzVh4BOMr9g6GfCSR-Lw/edit) (Green)
 * [Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs) (Jina)
 
+
