@@ -64,6 +64,7 @@ AngularJS 2 Learning
 * [Microsofts TodoMVC application demo for ng-conf 2015](https://github.com/Microsoft/ngconf2015demo) 
 * [Ionic's Angular 2 Series: Introduction](http://blog.ionic.io/angular-2-series-introduction/)
 * [TodoMVC Example in TypeScript (Angular 1)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-angular)
+* [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular-2)
 
 ## TypeScript
 * [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
